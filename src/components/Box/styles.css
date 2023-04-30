@@ -3,10 +3,11 @@
     height: 50vh;
 }
 
-.escura {
-    background-color: black;
+.escuro {
+    background-color: #F6F6F6;
+    ;
 }
 
 .claro {
-    background-color: white;
+    background-color: #fff;
 }

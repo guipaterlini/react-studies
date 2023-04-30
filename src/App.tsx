@@ -7,8 +7,12 @@ function App() {
     <div className="App">
       <Header />
       <main>
-        <Box background="claro" />
-        <Box background="escuro" />
+        <Box background="claro">
+          <h1>Educação Financeira é tudo de bom</h1>
+        </Box>
+        <Box background="escuro">
+          <h2>Vem comigo que te mostro por onde começar</h2>
+        </Box>
       </main>
     </div>
   );
